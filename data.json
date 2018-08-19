@@ -1,0 +1,51 @@
+{
+	"details": {
+		"image": "image.jpg",
+		"name": "divya",
+		"contactnumber": "7794897253",
+		"email": "divyachaitanya2@gmail.com",
+		"address": "guntur"
+	},
+	"career": {
+		"Info": "to pursue a challanging career"
+	},
+	"education": [{
+			"qualification": "b.tech",
+			"institute": "vignan nirula",
+			"year": "2016-2020",
+			"percentage": "80%"
+		},
+
+		{
+			"qualification": "inter",
+			"institute": "narayana junior college",
+			"year": "2014-2016",
+			"percentage": "89%"
+		},
+
+		{
+			"qualification": "b.tech",
+			"institute": "narayana group",
+			"year": "2014",
+			"percentage": "95%"
+		}
+	],
+
+
+	"technicalskills": [{
+			"title": "programming languages",
+			"info": ["c", "c++", "java", "python"]
+		},
+		{
+			"title": "Data bases",
+			"info": ["sql", "mysql", "oracle", ".net"]
+		},
+		{
+			"title": "operating systems",
+			"info": ["windows", "linux", "mac"]
+		}
+	],
+	"achievements": [{
+		"info": "certificate in code mania,prepared crafts"
+	}]
+}
